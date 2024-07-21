@@ -7,10 +7,10 @@
 int main(int argc, char *argv[]) {
 	setlocale (LC_ALL, "Portuguese");
 	
-	int x, n; /*n= n�mero fixo; x= n�mero escolhido.*/
+	int x, n; /*n= número fixo; x= número escolhido.*/
 	
 	system ("color 8A");
-	printf ("\n\t\t\t\tInsira o n�mero que deseja saber a tabuada: \n");
+	printf ("\n\t\t\t\tInsira o número que deseja saber a tabuada: \n");
 	scanf ("%d", &x);
 	system ("cls");
 	

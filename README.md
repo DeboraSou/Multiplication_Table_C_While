@@ -3,3 +3,7 @@
     <img alt="C" height="150" src="https://skillicons.dev/icons?i=c" />
   </a>
 </div><br>
+
+<div align="center";>
+  <h1>TABUADA COM WHILE 🔢</h1>
+</div>

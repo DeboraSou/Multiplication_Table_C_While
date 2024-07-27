@@ -7,3 +7,26 @@
 <div align="center";>
   <h1>TABUADA COM WHILE 🔢</h1>
 </div>
+
+## 📸 Imagens do Projeto em Funcionamento
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/multiplication-table-step-1.png" alt="Tela inicial">
+      <p>Tela inicial</p>
+    </td>
+    <td align="center">
+      <img src="assets/multiplication-table-step-2.png" alt="Inserção do número 7">
+      <p>Inserção do número 7</p>
+    </td>
+    <td align="center">
+      <img src="assets/multiplication-table-step-3.png" alt="Resultado da tabuada do 7">
+      <p>Resultado da tabuada do 7</p>
+    </td>
+    <td align="center">
+      <img src="assets/multiplication-table-step-4.png" alt="Fim da operação">
+      <p>Fim da operação</p>
+    </td>
+  </tr>
+</table>

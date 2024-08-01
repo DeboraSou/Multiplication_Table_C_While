@@ -8,6 +8,8 @@
   <h1>TABUADA COM WHILE 🔢</h1>
 </div>
 
+## Explicação do Código
+
 ## 📸 Imagens do Projeto em Funcionamento
 
 <table>

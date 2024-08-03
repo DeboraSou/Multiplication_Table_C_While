@@ -8,6 +8,8 @@
   <h1>TABUADA COM WHILE 🔢</h1>
 </div>
 
+Este repositório em **C** fornece um programa que calcula a tabuada de um número fornecido pelo usuário. O usuário insere um número, e o programa utiliza um laço `while` para gerar e exibir a tabuada desse número de 0 a 10. O laço `while` é crucial para repetir a operação de multiplicação e formatar a saída, permitindo que a tabuada completa seja exibida de maneira clara e organizada no console.
+
 ## 🖥️ Explicação do Código
 
 ## 📸 Imagens do Projeto em Funcionamento

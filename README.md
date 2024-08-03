@@ -53,8 +53,6 @@ system ("cls");
 
 - Define a cor do texto no console para outro tom e exibe a tabuada do número inserido pelo usuário, de 0 a 10.
 
-- O laço `for` é utilizado para iterar de 0 a 10, calculando e exibindo o produto do número fornecido pelo usuário (`x`) e o índice do laço (`n`). Esta estrutura de controle é fundamental para repetir a operação de multiplicação e exibir cada linha da tabuada.
-
 - O laço `while` é utilizado para iterar de 0 a 10, calculando e exibindo o produto do número fornecido (`x`) com o índice (`n`). Cada iteração exibe uma linha da tabuada. Em cada iteração, o valor de `n` é incrementado, e o produto `x * n` é exibido no console.
 
 ```c
